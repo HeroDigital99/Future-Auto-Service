@@ -1,0 +1,20 @@
+/* Future Auto Service — CSS architecture entrypoint
+
+   Layer order:
+   1) style.css                  tokens, reset, shared primitives and base components
+   2) design-system.css          shared design language and responsive grid behavior
+   3) v2-layout.css              homepage composition
+   4) header-footer-system.css   shared navigation and footer
+   5) brand-color-system.css     brand-specific visual accents
+   6) mobile-layout-fix.css      viewport and overflow safeguards
+   7) design-system-overrides.css page-specific exceptions only
+
+   Keep page-specific rules in the final layer. Do not add another override file.
+*/
+@import url("style.css");
+@import url("design-system.css");
+@import url("v2-layout.css");
+@import url("header-footer-system.css");
+@import url("brand-color-system.css");
+@import url("mobile-layout-fix.css");
+@import url("design-system-overrides.css");
