@@ -1,0 +1,11 @@
+Audio sources
+
+Home page engine
+- Source: Mixkit — “Car engine start”, asset 1566 preview.
+- Source page: https://mixkit.co/free-sound-effects/car/
+- License: Mixkit License.
+- Local file: engine-start.wav
+
+Internal page sound
+- Custom short automotive water-drop / wet impact sound generated for this project.
+- Local file: car-water-drop.wav
