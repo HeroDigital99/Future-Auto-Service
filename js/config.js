@@ -11,8 +11,11 @@ window.SITE_CONFIG = {
     // أضف صور أعمالك الفعلية هنا بالترتيب. اترك الخانة فارغة حتى تتم إضافة الصورة.
     gallery: ["assets/images/work-gallery/FB_IMG_1792634687488.webp", "assets/images/work-gallery/FB_IMG_1792634691336.webp", "assets/images/work-gallery/FB_IMG_1792634712862.webp", "assets/images/work-gallery/FB_IMG_1792634720565.webp", "assets/images/work-gallery/FB_IMG_1792634737717.webp"],
     // المعرض البصري الثاني القديم — مستقل عن Gallery الهيرو.
-    visualShowcase: ["assets/images/inspection-poster-optimized.webp", "", ""]
-  },
+    visualShowcase: [
+  "assets/images/inspection-poster-optimized.webp",
+  "assets/images/visual-02.webp",
+  ""
+]
   logo: "assets/images/future-auto-logo-optimized.webp",
   logoFallback: "assets/images/future-auto-logo.webp",
   professionalName: "المهندس أيمن حسنين محمد",
