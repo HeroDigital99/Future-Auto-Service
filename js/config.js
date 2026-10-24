@@ -13,7 +13,7 @@ window.SITE_CONFIG = {
     // المعرض البصري الثاني القديم — مستقل عن Gallery الهيرو.
     visualShowcase: [
   "assets/images/inspection-poster-optimized.webp",
-  "assets/images/visual-02.webp",
+  "assets/images/visual-02.png",
   ""
 ]
   logo: "assets/images/future-auto-logo-optimized.webp",
